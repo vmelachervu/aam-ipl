@@ -1,4 +1,5 @@
-# Applied AI & ML Industry Projects Lab (AAM-IPL) - Sem-V/VI CSE, CSM, CSD Undergrad Students (B.Tech), G.Pulla Reddy Engineering College, Kurnool, AP, India
+# Applied AI & ML Industry Projects Lab (AAM-IPL)  
+## Sem-V/VI CSE, CSM, CSD Undergrad Students (B.Tech), G.Pulla Reddy Engineering College, Kurnool, AP, India
 
 Welcome to the GitHub repository for the **Applied AI & ML Industry Projects Lab (AAM-IPL)**!   
 This lab program is designed for undergraduate computer science engineering students to gain hands-on experience in coding, implementing, and understanding key artificial intelligence (AI) and machine learning (ML) algorithms with real-world industry data.
