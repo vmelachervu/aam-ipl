@@ -78,7 +78,7 @@ Each session is designed to include:
 - **Saturdays**: 10:30 AM IST – 12:00 Noon IST
 - **Sundays**: 10:30 AM IST – 12:00 Noon IST
 - **Mondays**: 6:30 PM IST – 8:00 PM IST
-
+- **Online Classroom - Google Class**: https://classroom.google.com/u/2/c/NjkxOTI2NDI4NjEw 
 > **Note**: The full schedule with deadlines for project submissions and session details can be found in the Course Handout.
 
 ---
