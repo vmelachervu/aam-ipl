@@ -70,9 +70,7 @@ Each session is designed to include:
 | 14      | 09-11-2024 - Saturday | 1.5 Hrs       | Linear/Gaussian Discriminant Analysis (L/GDA) – Overview  | Online (Google Class) |                     |
 | 15      | 10-11-2024 - Sunday   | 1.5 Hrs       | Linear/Gaussian Discriminant Analysis (L/GDA) – Building  | Online (Google Class) | Submission deadline: 07-11-2024, 11:59 PM |
 |         Next project details announcement: 09-11-2024, 10:30 AM                                                                                           |
-| 16      | 09-11-2024 - Saturday | 1.5 Hrs       | Decision Tree Classifier – Model Overview/Recap           | Online (Google Class) |                     |
-| 17      | 10-11-2024 - Sunday   | 1.5 Hrs       | Decision Tree Classifier – Model Building                 | Online (Google Class) | Submission deadline: 10-11-2024, 11:59 PM |
-| 18      | 11-11-2024 - Friday   | Varies        | Issuance of Program Completion Certificates               | In-person (GPREC)     | Venue: GPREC Campus, Kurnool*
+| 16      | 13-11-2024 - Friday   | Varies        | Issuance of Program Completion Certificates               | In-person (GPREC)     | Venue: GPREC Campus, Kurnool*
 
 ---
 
