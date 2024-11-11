@@ -83,6 +83,10 @@ Each session is designed to include:
 
 ---
 
+**Guest Lecture Recordings:**
+The guest lectures delivered were streamed live in YouTube's Applied AI & ML Industry Projects Lab channel and are available for offline view as well at https://www.youtube.com/@ai-ml-lab-gprec
+
+---
 ## Development Environment
 
 - **Programming Language**: Python
